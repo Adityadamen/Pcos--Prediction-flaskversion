@@ -11,4 +11,4 @@ pandas>=0.19
 joblib==0.11
 flasgger==0.9.4
 scikit_learn==0.22.2.post1
-cython ==0.29.12
+cython  >= 0.28.5
